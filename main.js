@@ -1,5 +1,5 @@
 var btn = document.querySelector("button");
-//var isPurple = false;
+
 /*btn.addEventListener("click", function() {
     if (isPurple) {
         document.body.style.background = "white";
