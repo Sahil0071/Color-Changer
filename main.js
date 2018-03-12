@@ -1,4 +1,3 @@
-alert("Connected");
 var btn = document.querySelector("button");
 //var isPurple = false;
 /*btn.addEventListener("click", function() {
